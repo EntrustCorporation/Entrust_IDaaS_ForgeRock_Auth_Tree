@@ -78,7 +78,7 @@ ForgeRock Access Manager 7.0 (or newer) through an Apache Tomcat server.
 
 ## Configuration ###
 
-###Add ForgeRock Access Manager to Entrust Identity as a Service
+### Add ForgeRock Access Manager to Entrust Identity as a Service
 
 To integrate ForgeRock Access Manager with IDaaS, you need to generate an **Application ID** in IDaaS.
 
@@ -116,7 +116,7 @@ To integrate ForgeRock Access Manager with IDaaS, you need to generate an **Appl
 	
 13. Click **Done**.
 
-###Protect Access to ForgeRock Access Manager with a Resource Rule
+### Protect Access to ForgeRock Access Manager with a Resource Rule
 
 Create a Resource Rule in IDaaS to protect access to ForgeRock Manager Access Manager. The Resource Rule determines the authentication conditions required to access ForgeRock Access Manager. 
 
